@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ville Suutari - Web CV</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -76,9 +75,10 @@
 </head>
 <body>
     <div class="container">
-        
+        <header>
             <h1>Ville Suutari</h1>
             <p>Computer Science Student</p>
+        </header>
 
         <section class="contact">
             <h2>Contact</h2>
@@ -137,4 +137,5 @@
     </div>
 </body>
 </html>
+
 
