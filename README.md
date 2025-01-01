@@ -9,7 +9,6 @@
     <div class="container">
         <header>
             <img src="profile.jpg" alt="Ville Suutari" class="profile-pic">
-            <h1>Ville Suutari</h1>
             <p>Computer Science Student</p>
         </header>
 
