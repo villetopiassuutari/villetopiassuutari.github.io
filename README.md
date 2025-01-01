@@ -79,7 +79,6 @@
         
             <h1>Ville Suutari</h1>
             <p>Computer Science Student</p>
-        </header>
 
         <section class="contact">
             <h2>Contact</h2>
