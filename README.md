@@ -2,81 +2,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            color: #333;
-            background-color: #f4f4f9;
-        }
-
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            background: #fff;
-            padding: 20px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
-
-        header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
-        header h1 {
-            margin: 0;
-            color: #222;
-        }
-
-        header p {
-            color: #555;
-        }
-
-        section {
-            margin-bottom: 20px;
-        }
-
-        section h2 {
-            border-bottom: 2px solid #eaeaea;
-            padding-bottom: 5px;
-            margin-bottom: 10px;
-            color: #444;
-        }
-
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        ul li {
-            margin-bottom: 10px;
-        }
-
-        .contact-info {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-            margin-bottom: 20px;
-        }
-
-        .contact-info div {
-            margin-bottom: 10px;
-        }
-
-        footer {
-            text-align: center;
-            font-size: 0.9em;
-            color: #777;
-            margin-top: 20px;
-        }
-    </style>
+    <title>Ville Suutari - Web CV</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
         <header>
+            <img src="profile.jpg" alt="Ville Suutari" style="border-radius: 50%; width: 150px; height: 150px; margin: 10px auto; display: block;">
             <h1>Ville Suutari</h1>
             <p>Computer Science Student</p>
         </header>
