@@ -76,7 +76,7 @@
 </head>
 <body>
     <div class="container">
-        <header>
+        
             <h1>Ville Suutari</h1>
             <p>Computer Science Student</p>
         </header>
